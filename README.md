@@ -19,7 +19,7 @@ Instead of using a mouse or touchscreen, you slice fruits **in the air** using y
 ---
 
 ## 🛠 Tech Stack
-- **Python 3.8+**
+- **Python**
 - **PyGame** – Game rendering & logic  
 - **OpenCV** – Camera input & frame processing  
 - **MediaPipe** – Hand detection & tracking  

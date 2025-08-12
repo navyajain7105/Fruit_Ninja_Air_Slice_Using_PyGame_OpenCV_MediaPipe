@@ -5,6 +5,13 @@ Instead of using a mouse or touchscreen, you slice fruits **in the air** using y
 
 🎯 **No physical controller, just pure hand-tracking magic!**  
 
+🎮 **Game Features**
+✅ Gesture-controlled slicing using MediaPipe hand tracking\n
+✅ Smooth fruit physics with gravity\n
+✅ Combo scoring system for quick multiple hits\n
+✅ Lives & Game Over screen\n
+✅ Fun sound effects and visuals\n
+
 ---
 
 ## 📹 Demo Video
@@ -46,6 +53,6 @@ Instead of using a mouse or touchscreen, you slice fruits **in the air** using y
    python main.py
 
 4. **Play!**
-    -Stand in front of your webcam
-    -Move your hand to slice fruits
-    -Avoid slicing bombs!
+    -Stand in front of your webcam\n
+    -Move your hand to slice fruits\n
+    -Avoid slicing bombs!\n

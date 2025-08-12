@@ -16,6 +16,10 @@ Instead of using a mouse or touchscreen, you slice fruits **in the air** using y
 
 ## 📹 Demo Video
 
+https://github.com/user-attachments/assets/40e57503-ef1b-47ae-87e1-82cf8c4b56f2
+
+
+
 ---
 
 ## 🛠 Tech Stack

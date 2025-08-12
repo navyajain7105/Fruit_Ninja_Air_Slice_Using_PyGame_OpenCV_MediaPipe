@@ -6,8 +6,8 @@ Instead of using a mouse or touchscreen, you slice fruits **in the air** using y
 🎯 **No physical controller, just pure hand-tracking magic!**  
 
 🎮 **Game Features**
-✅ Gesture-controlled slicing using MediaPipe hand tracking\n
-✅ Smooth fruit physics with gravity\n
+✅ Gesture-controlled slicing using MediaPipe hand tracking<br>
+✅ Smooth fruit physics with gravity<br>
 ✅ Combo scoring system for quick multiple hits\n
 ✅ Lives & Game Over screen\n
 ✅ Fun sound effects and visuals\n
